@@ -1,6 +1,6 @@
 ### Hello World , I'm [Sanchit!](https://www.sanchit.dev) 👋
 
-- 🔭 I’m currently working on Interview Preparation
+- 🔭 I’m currently working on Improving my Github Profile 😉
 - 🌱 I’m currently learning React Hooks
 - 🤔 I’m looking for help with Frontend Interview Preparation
 - 💬 Ask me about React, Angular, Javascript, HTML, CSS and anything Frontend Related
